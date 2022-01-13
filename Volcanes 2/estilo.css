@@ -1,0 +1,80 @@
+h2 {
+  color:black;
+   font-size: 50;
+   margin-left:500;
+}
+
+h3{
+   font-size:30;
+   margin-left:550;
+}
+
+p {
+  font-size:18;
+}
+
+p a {
+  color:#F16636;
+}
+
+.blue {
+  background:#F16636;
+  margin:50;
+  padding:15;
+  border:5px solid #000;
+}
+
+.yellow{
+  background:#FFCD00;
+  width:;
+  margin:50;
+  padding:15;
+  border:5px dotted #000;
+}
+
+ul{
+  background:black;
+  margin-right:1050;
+  position:relative;
+  top:;
+  bottom:-30;
+  right:;
+  left:200;
+
+}
+li a {
+  color:white;
+  font-size:30px;
+  position:relative;
+  top:;
+  bottom:;
+  right:30;
+  left:;
+
+}
+
+.Inicio2 {
+  font-size:30px;
+  position:static;
+  top:;
+  bottom:;
+  right:;
+  left:;
+}
+.Categoria1 {
+  font-size:30px;
+  position:relative;
+  top:;
+  bottom:;
+  right:;
+  left:;
+}
+
+.Categoria2 {
+  font-size:30px;
+  position:relative;
+  top:;
+  bottom:;
+  right:;
+  left:;
+}
